@@ -225,6 +225,7 @@ body{
 	font-size: 14px;
 	color: rgb(41, 41, 41);
 	font-family: Georgia, serif;
+	background-color: white;
 }
 @keyframes text{
 	0%{
