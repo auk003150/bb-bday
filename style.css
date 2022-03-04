@@ -70,11 +70,11 @@ body{
 }
 
 .front{
-    transform: translateZ(100px);
-    -webkit-transform: translateZ(100px);
-    -moz-transform: translateZ(100px);
-    -ms-transform: translateZ(100px);
-    -o-transform: translateZ(100px);
+    transform: translateZ(80px);
+    -webkit-transform: translateZ(80px);
+    -moz-transform: translateZ(80px);
+    -ms-transform: translateZ(80px);
+    -o-transform: translateZ(80px);
 }
 
 .back{
